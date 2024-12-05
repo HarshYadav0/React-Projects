@@ -8,11 +8,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 - Project 1 :- BRAND LANDING PAGE ( https://landing-page-six-alpha-45.vercel.app/ ) <br><br>
-        <details>
-          <summary>Image Preview </summary>
+        <img width="958" alt="Landing-Page" src="https://github.com/user-attachments/assets/736c15cc-8b18-43dc-94c2-7df13aba4524">
 
-  ```bash
-
-<img width="958" alt="Landing-Page" src="https://github.com/user-attachments/assets/736c15cc-8b18-43dc-94c2-7df13aba4524">
-
-  ```

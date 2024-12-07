@@ -1,0 +1,26 @@
+.navigation{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 50px;
+    /* background: red; */
+    
+}
+
+
+.navigation ul{
+    display: flex;
+    list-style: none;
+    gap: 24px;
+    padding: 0 25px;
+    font-weight: 500;
+}
+
+/* .navigation ul li { */
+    /* cursor: pointer; Add cursor change for better UX */
+    /* transition: color 0.3s ease; Smooth hover effect */
+/* } */
+
+/* .navigation ul li:hover { */
+    /* color: white;  */
+/* } */

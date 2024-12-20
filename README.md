@@ -12,3 +12,5 @@ Currently, two official plugins are available:
 
 -Project 2 :-  CONTACT US PAGE ( https://contact-page-liart.vercel.app/ ) <br><br>
         ![Screenshot 2024-12-08 025424](https://github.com/user-attachments/assets/85451525-d6f1-40af-80a9-db65faba4678)
+
+-Project 3 :-
